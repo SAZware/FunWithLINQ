@@ -1,0 +1,6 @@
+language: csharp
+solution: scott_fun_with_LINQ.sln
+
+dotnet: 2.1.502
+script:
+ - dotnet restore
